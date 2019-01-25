@@ -38,3 +38,25 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
   - Indian Institute of Management -Indore (IIM-I)
 - Bachelor of Technology in Computer Science, 2012
   - Kakinada Institute of Engineering and Technology for Women (JNTUK affiliated)
+ 
+## Skills
+
+- Programming Languages: C, C++, Java, Python
+- Frameworks and Libraries:  NumPy, SciPy
+- Machine Learning Libraries: TensorFlow, Keras, PyTorch, OpenCV
+- Tools: Git, SPSS
+
+## Projects
+
+- Research and testing for 'Noungraph,' a platform that utilizes machine learning in pattern recognition and report generation from database records.
+- Contribute to 'ThinkML,' a project aimed to promote machine learning in a open source community that shares, collaborates and innovates.
+- ETL-ing Postgresql based databases using Amazon Redshift
+- Creating a serverless ML model via REST API to solve regression problems
+
+## Contact Info
+
+Gmail: aishwarya.pothula@mavs.uta.edu
+
+LinkedIn:  [www.linkedin.com/in/aishwaryapothula](www.linkedin.com/in/aishwaryapothula)
+
+GitHub: [https://github.com/aishwaryapothula](https://github.com/aishwaryapothula)
