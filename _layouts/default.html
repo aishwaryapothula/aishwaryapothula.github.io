@@ -10,6 +10,8 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+         
   </head>
   <body>
     <div class="wrapper">
@@ -29,7 +31,14 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-
+        
+        <ul style="list-style-type:none;">
+          <li><a href="mailto:aishwarya.pothula@mavs.uta.edu"><i class="fas fa-envelope"></i></a></li>
+          <li><a href="https://twitter.com/AishwaryaPothul"><i class="fab fa-twitter"></i></a></li>
+          <li><a href="www.linkedin.com/in/aishwaryapothula"><i class="fab fa-linkedin"></i></a></li>
+          <li><a href="https://github.com/aishwaryapothula"><i class="fab fa-github-square"></i></a></li>
+        </ul>
+ 
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
