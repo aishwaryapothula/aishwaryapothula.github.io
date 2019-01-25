@@ -2,7 +2,7 @@
 
 I am a  **Computer Science Doctoral student** at the **University of Texas at Arlington**. I am pursuing my research in the areas of Machine Learning and Reinforcement Learning at the Human Data Interaction Lab (HDI) under [Dr.Deokgun Park](http://crystal.uta.edu/~park/).
 
-### Interests
+## Interests
 
 - Artificial Intelligence
 - Machine Learning
@@ -25,7 +25,7 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 - Conducting Exploratory Data Analysis, Data Cleaning, and creating model prototypes
 - Support development of commercially deployable enterprise scale machine learning systems that provide  intuitive solutions to clients. 
 
-## Kakinada Institute of Engineering & Technology, Kakinada, India
+### Kakinada Institute of Engineering & Technology, Kakinada, India
 **Assistant Professor; June 2015 – January 2017**                                                                                                                                                                                                           - Assigned to department of computer science to teach OS, AINN, MFCS for 3rd year undergraduate students.
 - Mentor and guide students on project selection, internship opportunities, and career development.
 - Organize and facilitate conferences and workshops for students on-campus
