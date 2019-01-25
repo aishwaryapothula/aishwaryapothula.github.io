@@ -1,8 +1,6 @@
 ## Biography
 
-I am a  Computer Science doctoral student at the University of Texas at Arlington. I am pursuing my research in the areas of Machine Learning and Reinforcement Learning at the Human Data Interaction Lab (HDI) under Dr.Deokgun Park.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a  **Computer Science Doctoral student** at the **University of Texas at Arlington**. I am pursuing my research in the areas of Machine Learning and Reinforcement Learning at the Human Data Interaction Lab (HDI) under [Dr.Deokgun Park](http://crystal.uta.edu/~park/).
 
 ### Interests
 
