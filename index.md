@@ -4,9 +4,9 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 
 ## Interests
 
-- Artificial Intelligence
+- Artificial Intelligence Intelligence (AGI)
 - Machine Learning
-- Deep Learning
+- Computer Vision
 - Reinforcement Learning
 - ML in Behavioural Economics
 
@@ -25,8 +25,10 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 - Conducting Exploratory Data Analysis, Data Cleaning, and creating model prototypes
 - Support development of commercially deployable enterprise scale machine learning systems that provide  intuitive solutions to clients. 
 
-### Kakinada Institute of Engineering & Technology, Kakinada, India
-**Assistant Professor; June 2015 – January 2017**                                                                                                                                                                                                           - Assigned to department of computer science to teach OS, AINN, MFCS for 3rd year undergraduate students.
+### Kakinada Institute of Engineering & Technology, India
+**Assistant Professor; June 2015 – January 2017** 
+
+- Assigned to department of computer science to teach OS, AINN, MFCS for 3rd year undergraduate students.
 - Mentor and guide students on project selection, internship opportunities, and career development.
 - Organize and facilitate conferences and workshops for students on-campus
 
