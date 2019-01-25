@@ -1,37 +1,40 @@
-## Aishwarya Pothula
+## Biography
 
-You can use the [editor on GitHub](https://github.com/aishwaryapothula/aishwaryapothula.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a  Computer Science doctoral student at the University of Texas at Arlington. I am pursuing my research in the areas of Machine Learning and Reinforcement Learning at the Human Data Interaction Lab (HDI) under Dr.Deokgun Park.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- ML in Behavioural Economics
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### University of Texas, Arlington,USA Computer Science 
+**Ph.D. Student; January 2019-Present**
 
-1. Numbered
-2. List
+- Working in the Human Data Interaction Lab (HDI) under [Dr.Deokgun Park](http://crystal.uta.edu/~park/)                 
 
-**Bold** and _Italic_ and `Code` text
+ 
+### Caravel.AI, Hyderabad, India
+**Machine Learning Engineer; April 2017 – Present**  
 
-[Link](url) and ![Image](src)
-```
+- Conducting Exploratory Data Analysis, Data Cleaning, and creating model prototypes
+- Support development of commercially deployable enterprise scale machine learning systems that provide  intuitive solutions to clients. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Kakinada Institute of Engineering & Technology, Kakinada, India
+**Assistant Professor; June 2015 – January 2017**                                                                                                                                                                                                           - Assigned to department of computer science to teach OS, AINN, MFCS for 3rd year undergraduate students.
+- Mentor and guide students on project selection, internship opportunities, and career development.
+- Organize and facilitate conferences and workshops for students on-campus
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aishwaryapothula/aishwaryapothula.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Master of Business Administration (MBA), 2014
+  - Indian Institute of Management -Indore (IIM-I)
+- Bachelor of Technology in Computer Science, 2012
+  - Kakinada Institute of Engineering and Technology for Women (JNTUK affiliated)
