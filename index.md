@@ -59,6 +59,6 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 
 Email: <a href="mailto:aishwarya.pothula@mavs.uta.edu">aishwarya.pothula@mavs.uta.edu</a>
 
-LinkedIn:  [https://www.linkedin.com/in/aishwaryapothula](www.linkedin.com/in/aishwaryapothula)
+LinkedIn:  [https://www.linkedin.com/in/aishwaryapothula](https://www.linkedin.com/in/aishwaryapothula)
 
 GitHub: [https://github.com/aishwaryapothula](https://github.com/aishwaryapothula)
