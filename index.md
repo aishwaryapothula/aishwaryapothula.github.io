@@ -2,7 +2,7 @@
 
 I am a  **Computer Science Doctoral student** at the **University of Texas at Arlington**. I am pursuing my research in the areas of Machine Learning and Reinforcement Learning at the Human Data Interaction Lab (HDI) under [Dr.Deokgun Park](http://crystal.uta.edu/~park/).
 
-**[Curriculum Vitae](https://github.com/aishwaryapothula/aishwaryapothula.github.io/blob/master/Aishwarya_CV.pdf)**
+**[Curriculum Vitae](http://aishwarya.io/Aishwarya_CV.pdf)**
 
 ## Interests
 
