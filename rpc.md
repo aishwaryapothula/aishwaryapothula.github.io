@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Advantages and Disadvantages Of RPC And Message-Oriented Communication
 ---
 
