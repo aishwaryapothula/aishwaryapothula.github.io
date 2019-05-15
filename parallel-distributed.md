@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Differences between distributed and parallel systems
 ---
 
