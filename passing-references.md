@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Passing Reference Parameters In Remote Procedural Calls
 ---
 
