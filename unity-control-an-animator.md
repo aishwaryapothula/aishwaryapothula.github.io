@@ -1,3 +1,8 @@
+---
+layout: blog
+title: Unity Tutorial on how to control an Animator  
+---
+
 # Unity Tutorial on how to control an Animator  
 
 
