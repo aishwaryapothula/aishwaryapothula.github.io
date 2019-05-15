@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: A Brief Summary of Gated-Attention Architectures for Task-Oriented Language Grounding
 ---
 
