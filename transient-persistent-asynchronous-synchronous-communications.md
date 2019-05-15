@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Transient Persistent Asynchronous Synchronous Communications
 ---
 
