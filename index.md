@@ -67,8 +67,8 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
   <li><a href="transient-persistent-asynchronous-synchronous-communications">Transient Persistent Asynchronous Synchronous Communications</a></li>
    <li><a href="rpc">RPC</a></li>
   <li><a href="gated">Gated</a></li>
+  <li><a href="unity-control-an-animator">Unity Tutorial on how to control an Animator</a></li>
   <li><a href="world-models">World Models</a></li>
-
 </ol>
 
 
