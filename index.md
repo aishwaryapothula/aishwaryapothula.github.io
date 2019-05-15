@@ -58,7 +58,7 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 ## Blog
 <ol>
  <li><a href="logical-clocks">Logical Clocks</a></li>
-  <li><a href="message-queue">message Queue</a></li>
+  <li><a href="message-queue">Message Queue</a></li>
  <li><a href="lamports">Lamports</a></li>
  <li><a href="parallel-distributed">Parallel Distributed</a></li>
  <li><a href="passing-references">Passing References</a></li>
@@ -66,7 +66,7 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
   <li><a href="threads">Threads</a></li>
   <li><a href="transient-persistent-asynchronous-synchronous-communications">Transient Persistent Asynchronous Synchronous Communications</a></li>
    <li><a href="rpc">RPC</a></li>
-
+  <li><a href="gated">Gated</a></li>
   <li><a href="world-models">World Models</a></li>
 
 </ol>
