@@ -67,7 +67,7 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
   <li><a href="transient-persistent-asynchronous-synchronous-communications">Transient Persistent Asynchronous Synchronous Communications</a></li>
   <li><a href="world-models">World Models</a></li>
 
-
+</ol>
 
 
 ## Contact Info
