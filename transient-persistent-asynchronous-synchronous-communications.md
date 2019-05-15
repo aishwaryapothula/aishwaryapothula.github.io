@@ -1,3 +1,8 @@
+---
+layout: default
+title: Transient Persistent Asynchronous Synchronous Communications
+---
+
 # Transient Persistent Asynchronous Synchronous Communications
 
 **Persistent Communication**
