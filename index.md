@@ -55,6 +55,21 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
 - ETL-ing Postgresql based databases using Amazon Redshift
 - Creating a serverless ML model via REST API to solve regression problems
 
+## Blog
+<ol>
+ <li><a href="logical-clocks">Logical Clocks</a></li>
+  <li><a href="message-queue">message Queue</a></li>
+ <li><a href="lamports">Lamports</a></li>
+ <li><a href="parallel-distributed">Parallel Distributed</a></li>
+ <li><a href="passing-references">Passing References</a></li>
+ <li><a href="techniques-scaling-distributed">Techniques Scaling Distributed</a></li>
+  <li><a href="threads">Threads</a></li>
+  <li><a href="transient-persistent-asynchronous-synchronous-communications">Transient Persistent Asynchronous Synchronous Communications</a></li>
+  <li><a href="world-models">World Models</a></li>
+
+
+
+
 ## Contact Info
 
 Email: <a href="mailto:aishwarya.pothula@mavs.uta.edu">aishwarya.pothula@mavs.uta.edu</a>
