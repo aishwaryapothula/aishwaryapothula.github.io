@@ -1,6 +1,6 @@
 ---
-layout: default
-title: *A Brief Summary of World Models
+layout: blog
+title: Brief Summary of World Models
 ---
 
 # A Brief Summary of World Models
