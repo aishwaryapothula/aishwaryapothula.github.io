@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Lamports Logical Clocks To Derive A Total Order Of Events
 ---
 
