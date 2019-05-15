@@ -32,42 +32,45 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Action : MonoBehaviour
+public class animation : MonoBehaviour
 {
-public Animator ar;
+    public Animator ar;
 
-// Start is called before the first frame update
-void Start()
-{
-ar = GetComponent\&lt;Animator\&gt;();
-}
 
-// Update is called once per frame
-void Update()
-{
-if (Input.GetKeyUp(&quot;1&quot;))
-{
-ar.Play(&quot;action\_clip1\_name &quot;);
-}
-else if (Input.GetKeyUp(&quot;2&quot;))
-{
-ar.Play(&quot;action\_clip2\_name &quot;);
-}
-else if (Input.GetKeyUp(&quot;3&quot;))
-{
-ar.Play(&quot;action\_clip3\_name &quot;);
-}
-else if (Input.GetKeyUp(&quot;4&quot;))
-{
-ar.Play(&quot;action\_clip4\_name &quot;);
-}
-}
-}
+    void Start()
+    {
+        ar = GetComponent<Animator>();
 
-&#39;
+
+    }
+
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKeyUp("a1"))
+        {
+            ar.Play("a1");
+        }
+        if (Input.GetKeyUp("2"))
+        {
+            ar.Play("a2");
+        }
+        if (Input.GetKeyUp("3"))
+        {
+            ar.Play("a3");
+        }
+        if (Input.GetKeyUp("4"))
+        {
+            ar.Play("a4");
+        }
+    }
+}
 ```
 
 In the code we create a public animator variable called &#39;ar&#39; which can be used later to hold the animator object. In &#39;start&#39; we create an object for the class &#39;animator&#39;. In the &#39;update&#39; section we are linking the user input to the actions to be performed by the animator object. Any instruction written in the update section are executed for every frame. We have now successfully created the game. Go the &#39;_Game_&#39; tab and click on play. Now, the game objects performs actions according to the keyboard inputs that we give. Inputting &#39;1&#39; on the keyboard would render action clip 1 being performed by the game object.
 
 
-You can download the build from the following link. https://drive.google.com/drive/folders/1K-wgbRSq1-ugXS3X6cZ6VNCiAcjM7DUu
+You can download the build from the following link. 
+
+[Build Link](https://drive.google.com/drive/folders/1K-wgbRSq1-ugXS3X6cZ6VNCiAcjM7DUu) 
