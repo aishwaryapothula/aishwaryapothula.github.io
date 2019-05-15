@@ -65,6 +65,8 @@ I am a  **Computer Science Doctoral student** at the **University of Texas at Ar
  <li><a href="techniques-scaling-distributed">Techniques Scaling Distributed</a></li>
   <li><a href="threads">Threads</a></li>
   <li><a href="transient-persistent-asynchronous-synchronous-communications">Transient Persistent Asynchronous Synchronous Communications</a></li>
+   <li><a href="rpc">RPC</a></li>
+
   <li><a href="world-models">World Models</a></li>
 
 </ol>
