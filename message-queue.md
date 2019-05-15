@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: How Message-Queuing Model Can Help Design Of Distributed Systems
 ---
 
