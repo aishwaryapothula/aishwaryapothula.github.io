@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Causally Order Events On Distributed Machines Using Logical Clocks
 ---
 
