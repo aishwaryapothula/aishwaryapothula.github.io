@@ -34,7 +34,7 @@ title: Brief Summary of World Models
 **Agent Model**
 
 
-![](1-wm.png =250x)
+![](1-wm.png)
 
 
 - Visual Sensory component
@@ -61,10 +61,11 @@ title: Brief Summary of World Models
 - M Model serves as the predictive model of the future Z vectors that V is expected to produce
 - Because of the stochastic nature of environments, RNN is trained to output a probability density function p(z) instead of a deterministic prediction.
 - p(z) is approximated as a mixture Gaussian distribution and the RNN is trained to output p(zt+1) given the current and past information available to it.
-- P(z​t+1​​∣a​t,z​t,h​t)
+- P(z​<sub>t+1</sub>​​∣a​<sub>t</sub>,z​<sub>t</sub>,h​<sub>t</sub>)
 - at is the action taken at time t
 - ht is the hidden state if RNN at time t
 
+![](2-mdn-rnn.png)
 
 **Controller (C) Model**
 
@@ -93,3 +94,4 @@ title: Brief Summary of World Models
 - The capacity and expressiveness via the larger model are also not sacrificed
 - By training the agent through the world model, it can be shown that it can learn a compact policy to perform its task
 
+![](3-model.png)
