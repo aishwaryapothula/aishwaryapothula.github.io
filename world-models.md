@@ -34,6 +34,9 @@ title: Brief Summary of World Models
 **Agent Model**
 
 
+![](1-wm.png =250x)
+
+
 - Visual Sensory component
 - Variational Encoder V compresses what it sees into small representative code
 - Memory component
