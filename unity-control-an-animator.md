@@ -15,7 +15,9 @@ Let&#39;s get started and create this simple game. You can also watch this video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_yDVf4bKz6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Download and install [Unity3D](https://unity3d.com/unity). Open unity and create a new Unity 3D project titled &#39;Animation Game&#39;.  Configure your unity so that the animator window is visible. To enable, go to &#39;_Window_&#39; select &#39;_Animation_&#39; and select &#39;_Animator_&#39;. You will now be able to see the &#39;_Animator_&#39; window available.
+Download and install [Unity3D](https://unity3d.com/unity). Open unity and create a new Unity 3D project titled &#39;Animation Game&#39;.  
+
+Configure your unity so that the animator window is visible. To enable, go to &#39;_Window_&#39; select &#39;_Animation_&#39; and select &#39;_Animator_&#39;. You will now be able to see the &#39;_Animator_&#39; window available.
 
 Let&#39;s talk about the input file that we have on hand. I already have with me an fbx containing a video of a few action sequences. If you don&#39;t already have one, you will be able to download fbx files online for free. This [Quora page](https://www.quora.com/What-is-the-best-free-database-of-3D-models-I-can-use-in-Unity) mentions a few resources.
 
