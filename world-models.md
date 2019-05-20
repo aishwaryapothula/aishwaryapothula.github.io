@@ -49,7 +49,7 @@ title: Brief Summary of World Models
 **VAE(V) Model**
 
 - The role of V Model is to learn an abstract , compressed representation of each observed input frame
-- Environment provides V Model or VAE with high dimensional 2D input observation at each time step t which it then compresses into a low dimensional latent vector Zt
+- Environment provides V Model or VAE with high dimensional 2D input observation at each time step t which it then compresses into a low dimensional latent vector Z<sub>t</sub>
 - This vector can be later used to reconstruct the actual image
 
 
@@ -60,10 +60,10 @@ title: Brief Summary of World Models
 - M model compresses what happens temporally.
 - M Model serves as the predictive model of the future Z vectors that V is expected to produce
 - Because of the stochastic nature of environments, RNN is trained to output a probability density function p(z) instead of a deterministic prediction.
-- p(z) is approximated as a mixture Gaussian distribution and the RNN is trained to output p(zt+1) given the current and past information available to it.
+- p(z) is approximated as a mixture Gaussian distribution and the RNN is trained to output p(z<sub>t</sub>+1) given the current and past information available to it.
 - P(z​<sub>t+1</sub>​​∣a​<sub>t</sub>,z​<sub>t</sub>,h​<sub>t</sub>)
-- at is the action taken at time t
-- ht is the hidden state if RNN at time t
+- a<sub>t</sub> is the action taken at time t
+- h<sub>t</sub> is the hidden state if RNN at time t
 
 ![](2-mdn-rnn.png)
 
@@ -71,10 +71,10 @@ title: Brief Summary of World Models
 
 
 - Model C role is to determine the actions in order to maximize expected reward during rollout of environment
-- C is a single layer linear model which maps zt and ht directly to at
+- C is a single layer linear model which maps z<sub>t</sub> and h<sub>t</sub> directly to at
 - a​t=W​c[z​t​th​t​t]+b​c​c
-- Wc and bc are the weight matrix and bias vector
-- They map the concatenated input vector [ztht] to the output action vector at
+- W<sub>c</sub> and b<sub>c</sub> are the weight matrix and bias vector
+- They map the concatenated input vector [z<sub>t</sub>h<sub>t</sub>] to the output action vector a<sub>t</sub>
 - Model C is deliberately made simple and small
 - It is trained separately from V and M
 - This is to ensure that most of the agent&#39;s complexity lies in V and M(world model)
