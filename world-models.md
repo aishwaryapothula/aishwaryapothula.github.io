@@ -72,7 +72,7 @@ title: Brief Summary of World Models
 
 - Model C role is to determine the actions in order to maximize expected reward during rollout of environment
 - C is a single layer linear model which maps z<sub>t</sub> and h<sub>t</sub> directly to at
-- a​t=W​c[z​t​th​t​t]+b​c​c
+- a​<sub>t</sub>=W​<sub>c</sub>[z​t​<sub>t</sub>h​t​<sub>t</sub>]+b​c​<sub>c</sub>
 - W<sub>c</sub> and b<sub>c</sub> are the weight matrix and bias vector
 - They map the concatenated input vector [z<sub>t</sub>h<sub>t</sub>] to the output action vector a<sub>t</sub>
 - Model C is deliberately made simple and small
