@@ -81,9 +81,13 @@ title: A Brief Summary of Gated-Attention Architectures for Task-Oriented Langua
 **Environment**
 
 - Create environment in which agent can execute NL instructions and gain positive rewards on successful completion of task.
+
 - Instruction is a combination of action+attributes+object
-- Instruction can have multiple attributes but actions and objects are limited to 1 per instruction
+
+- Instruction can have multiple attributes but actions and objects are limited to 1 per instruction 
+
 - Attributes such as color shape size
+
 - 70 manually generated instructions and for each instruction env allows automatic creation of multiple episodes with randomly selected objects- one correct object and 4 other incorrect objects-(limited to 5 objects per episode) placed randomly in the episode
 - Challenges
 	- same instruction can refer to different objects in different episodes. Ex ‘Go to red card’
@@ -93,7 +97,9 @@ title: A Brief Summary of Gated-Attention Architectures for Task-Oriented Langua
 - Difficulty levels in spawning of objects in episodes
 	- Easy-Objects at fixed locations along single line along field of view
 	- Medium- Objects at random locations, but in field of view. Agent in fixed location
-	- Hard- Objects and agent at random locations. Objects may or maynot be in the field of view initially. Agent needs to explore map.
+	- Hard- Objects and agent at random locations. Objects may or maynot be in the field of view initially.
+	
+Agent needs to explore map.
 	
 **Experimental Setup**
 
