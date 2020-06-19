@@ -76,6 +76,11 @@ I am a **Computer Science Doctoral student** at the **University of Texas at Arl
   <li><a href="motive-and-faceware-mocap-documentation">MOTIVE AND FACEWARE MOCAP DOCUMENTATION</a></li>
   <li><a href="summer-2019-remester-review">Summer 2019 Semester Review</a></li>
   <li><a href="spring-2019-semester-blog">Spring 2019 Semester Blog</a></li>
+  
+  <li><a href="hdilab-fall-2019-review">HDILab Fall 2019 Review</a></li>
+  <li><a href="floatpropertieschannel-of-mlagents(0.14.1)">FloatPropertiesChannel of MLagents (0.14.1)</a></li>
+  <li><a href="foundations-of-new-learning-science-summary">Foundations for A New Science of Learning</a></li>
+  <li><a href="rodent-paper-summary">Rodent Paper summary</a></li>
 </ol>
 
 ## Contact Info
