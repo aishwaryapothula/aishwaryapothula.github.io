@@ -31,11 +31,11 @@ Here are a few examples the authors have used to showcase this interplay.
 > Ex: A candidate mechanism governing the sensitive period for language in humans is “neural commitment”<sup>6</sup>. Neural commitment is the formation of neural architecture and circuitry dedicated to the detection of phonetic and prosodic characteristics of the particular ambient language(s) to which the infant is exposed. The neural circuitry maximizes detection of a particular language, and when fully developed, interferes with the acquisition of a new language.
 The authors emphasize on exploring why the “social” element is so essential in learning and how we can harness it to improve learning.
 
-Kuhl PK, Williams KA, Lacerda F, Stevens KN, Lindblom B. Science 1992;255:606 . [PubMed: 1736364] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938 (2009): 284-8 .
-Maye J, Werker JF, Gerken L. Cognition 2002;82:B101. [PubMed: 11747867] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938 (2009): 284-8 .
-Saffran JR, Aslin RN, Newport EL. Science 1996;274:1926. [PubMed: 8943209] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
-Gopnik A, et al. Psychol. Rev 2004;111:3. [PubMed: 14756583] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
-Meltzoff AN, Moore MK. Early Dev. Parenting 1997;6:179 cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
-Kuhl PK. Nature Rev. Neurosci 2004;5:831. [PubMed: 15496861] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
+1. Kuhl PK, Williams KA, Lacerda F, Stevens KN, Lindblom B. Science 1992;255:606 . [PubMed: 1736364] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938 (2009): 284-8 .
+2. Maye J, Werker JF, Gerken L. Cognition 2002;82:B101. [PubMed: 11747867] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938 (2009): 284-8 .
+3. Saffran JR, Aslin RN, Newport EL. Science 1996;274:1926. [PubMed: 8943209] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
+4. Gopnik A, et al. Psychol. Rev 2004;111:3. [PubMed: 14756583] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
+5. Meltzoff AN, Moore MK. Early Dev. Parenting 1997;6:179 cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
+6. Kuhl PK. Nature Rev. Neurosci 2004;5:831. [PubMed: 15496861] cited by Meltzoff, Andrew N., Patricia K. Kuhl, Javier R. Movellan and Terrence J. Sejnowski. “Foundations for a new science of learning.” Science 325 5938
 
 <!-- foundations-of-new-learning-science-summary -->
