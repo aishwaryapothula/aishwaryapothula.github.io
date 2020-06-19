@@ -80,7 +80,7 @@ I am a **Computer Science Doctoral student** at the **University of Texas at Arl
   <li><a href="hdilab-fall-2019-review">HDILab Fall 2019 Review</a></li>
   <li><a href="floatpropertieschannel-of-mlagents(0.14.1)">FloatPropertiesChannel of MLagents (0.14.1)</a></li>
   <li><a href="foundations-of-new-learning-science-summary">Foundations for A New Science of Learning</a></li>
-  <li><a href="rodent-paper-summary">Rodent Paper summary</a></li>
+  <li><a href="rodent-paper-summary">Summary of Deep Neuroethology Of A Virtual Rodent</a></li>
 </ol>
 
 ## Contact Info
