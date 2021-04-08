@@ -8,7 +8,7 @@ Marvin Minsky is a world-renowned computer and cognitive scientist. He is also t
 
 Minsky's theories on understanding the mind stand on the root idea that that the human brain is made of several subparts working together, which he calls *agents.* In fact, the title of the work, "Society of Mind", stems from this theory. Minsky believes that groups of these agents have separate goals and work together to generate mental phenomenon. Even though groups are not aware of the working of other groups, they are able to influence other groups in varying degrees. For example, the agencies responsible for movement are often influenced by the agencies responsible for vision. 
 
-![glimpses](http://i.imgur.com/Eb5RFn6h.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="Eb5RFn6"><a href="https://imgur.com/Eb5RFn6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 **Minds and Brains**
 
